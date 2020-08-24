@@ -21,6 +21,7 @@ import random
 
 sg.theme('Material1')
 
+first_factor_password = "Passw0rd"
 secret_file = "secrets.json"
 with open(secret_file, "r") as f:
     data = json.load(f)
@@ -155,7 +156,7 @@ def ui():
             password = value["password"]
             print(username)
             print(password)
-            if not(password == "vrushal"):
+            if not(password == first_factor_password):
                 window1.close()
                 window1 = sg.Window(title="WRONG PASSWORD", layout=[[sg.Text('WRONG PASSWORD ENTERED')]], size=(1000,500),margins=(375, 200))
             else:
