@@ -12,6 +12,7 @@ How to Run -
 2) python gui.py
 
 currently first factor authenication is done using a single password and In second factor authentication API's are used.     
+first_factor_password is Passw0rd .  you can change it in gui.py (change this line , first_factor_password = "Passw0rd").
 
 # demo for email otp
 ![email otp demo](gif/gui-demo-email.gif)
