@@ -13,7 +13,11 @@ How to Run -
 
 currently first factor authenication is done using a single password and In second factor authentication API's are used.     
 
+# demo for email otp
+![email otp demo](gif/gui-demo-email.gif)
 
+# demo for sms otp
+![sms otp demo](gif/gui-demo-sms.gif)
 
 
 
