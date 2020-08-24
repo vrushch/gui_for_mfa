@@ -17,4 +17,4 @@ currently first factor authenication is done using a single password and In seco
 
 
 
-# Note: The project list easy step of implementation and is DO-IT-YOURSELF (DIY). It is avalaible ‘as is’ with no formal support from IBM. You are also welcome & encouraged to contribute to the project.
+```Note: The project list easy step of implementation and is DO-IT-YOURSELF (DIY). It is avalaible ‘as is’ with no formal support from IBM. You are also welcome & encouraged to contribute to the project.```
