@@ -10,3 +10,7 @@
 1) [Github Repo for GUI](https://github.com/vrushch/gui_for_mfa/)
 
 2) [Setup of IBM Security Verify and using REST API/Curl for MFA (useful for GUI and Web Applications)](https://medium.com/@vrushalc7/setup-of-ibm-security-verify-and-using-rest-api-curl-for-mfa-useful-for-gui-and-web-applications-62c7a8a5da37)
+
+
+## Multi Factor Authentication with IBM Security Verify is now intergrated with Spectrum Scale 5.1.1 GUI 
+[Configuring multi-factor authentication for GUI users](https://www.ibm.com/docs/en/spectrum-scale/5.1.1?topic=users-configuring-multi-factor-authentication-gui)
